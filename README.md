@@ -1,6 +1,6 @@
 # Glyphix
 
-> A lightweight, zero-dependency text analysis tool with a WebGL line-wave background.
+> A lightweight, zero-dependency text analysis tool.
 
 **Glyphix** gives you two focused utilities in a single static page — a character density counter and a text slicer — wrapped in a dark glass UI with an animated WebGL background.
 
